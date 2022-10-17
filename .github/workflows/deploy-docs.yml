@@ -1,6 +1,6 @@
 name: Deploy StoryBook
 
-on:
+on: 
   push: 
     branches: 
       - master
